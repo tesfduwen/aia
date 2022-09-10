@@ -16,11 +16,11 @@ AIA是Arch Linux installation assistant的缩写，这其实是我写的第一�
 * 自动安装桌面环境（kde）
 * 自动安装中文输入法及字体
 * 自动配置输入法
-* 自动安装aur助手
+* 自动安装aur助手  
 未能实现：
 * 自动磁盘分区及挂载
-* 自由选择桌面环境（kde/gnome）
-食用方法：  
+* 自由选择桌面环境（kde/gnome）  
+食用方法：    
 ```
 wget https://api.tesf.top/download/archlinux/aia.sh  
 chmod 777 aia.sh  
